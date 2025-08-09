@@ -1,6 +1,5 @@
 package org.example;
 
-import javax.sql.DataSource;
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
